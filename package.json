@@ -1,0 +1,23 @@
+{
+  "name": "back-end-curso-cod3r",
+  "version": "1.0.0",
+  "description": "Back end do curso Angular 9 da cod3r.",
+  "main": "index.js",
+  "scripts": {
+    "start":" json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanedev/back-end-curso-cod3r.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanedev/back-end-curso-cod3r/issues"
+  },
+  "homepage": "https://github.com/vanedev/back-end-curso-cod3r#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
